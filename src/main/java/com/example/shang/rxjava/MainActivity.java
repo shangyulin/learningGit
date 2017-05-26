@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         final Button suspend = (Button) findViewById(R.id.suspend);
 
         List<Integer> list = new ArrayList<Integer>();
-        for(int i = 0; i < 10; i++){
+        for(int i = 0; i < 10; i++) {
             list.add(i);
         }
 
